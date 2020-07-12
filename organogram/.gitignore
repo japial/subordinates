@@ -1,0 +1,19 @@
+vendor/*
+
+nbproject/*
+nbproject
+
+#all node modules ignore
+bower_components/**
+node_modules/**
+composer.lock
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.vscode
